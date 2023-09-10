@@ -1,0 +1,4 @@
+npm init 
+npm install express mongoose cors
+npm install nodemon
+npm install axios
